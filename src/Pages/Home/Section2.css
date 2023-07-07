@@ -1,0 +1,80 @@
+.section2 {
+    text-align: center;
+    margin: 2rem 2rem;
+    padding: 4rem 2rem;
+}
+
+.circle-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.circle {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1.2rem solid  var(--main-color);
+    box-shadow: -10px 10px 5px rgba(0, 0, 0, 0.6);
+    -moz-box-shadow: -10px 10px 5px rgba(0, 0, 0, 0.6);
+    -webkit-box-shadow: -10px 10px 5px rgb(0 0 0 / 36%);
+    -o-box-shadow: -10px 10px 5px rgba(0, 0, 0, 0.6);
+}
+.circle img{
+    height: 5rem;
+}
+
+
+.header1-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 13vw;
+}
+
+.header1 {
+    width: 150px;
+    text-align: center;
+}
+
+.header1 h3 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.header1 p {
+    margin-bottom: 10px;
+}
+
+.section2 h2 {
+    font-size: 2.5rem;
+}
+
+.section2 p {
+    font-size: 1.2rem;
+}
+
+hr {
+    background-color: white;
+    border-top: 4px dotted gray;
+    height: 3px;
+    width: 16%;
+}
+
+@media only screen and (max-width: 530px) {
+    .circle {
+        width: 8rem;
+        height: 8rem;
+        border: 8px solid  var(--main-color);
+    }
+    .circle img{
+        height: 4rem;
+    }
+    .section2 p {
+        font-size: 0.8rem;
+    }
+}

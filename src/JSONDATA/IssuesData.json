@@ -1,0 +1,46 @@
+[
+      { "id":1,
+        "issueName": "Item 1",
+        "image": "screen.png",
+        "crossPrice": 25.99,
+        "price": 19.99
+      },
+      { "id":2,
+        "issueName": "Mic",
+        "image": "mic.png",
+        "crossPrice": 15.49,
+        "price": 12.99
+      },
+      { "id":3,
+        "issueName": "Receiver",
+        "image": "receiver.png",
+        "crossPrice": 39.99,
+        "price": 34.99
+      },
+      { "id":4,
+        "issueName": "Aux-Jack",
+        "image": "aux-jack.png",
+        "crossPrice": 9.99,
+        "price": 7.99
+      },
+      { "id":5,
+        "issueName": "Battery",
+        "image": "battery.png",
+        "crossPrice": 59.99,
+        "price": 49.99
+      },
+      { "id":6,
+        "issueName": "Charging Jack",
+        "image": "Charging-Jack.png",
+        "crossPrice": 12.99,
+        "price": 9.99
+      },
+      { "id":7,
+        "issueName": "Speaker",
+        "image": "speaker.png",
+        "crossPrice": 29.99,
+        "price": 24.99
+      }
+    ]
+
+  

@@ -1,0 +1,103 @@
+.section5-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+    margin-top: 2rem;
+}
+
+.column {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+    line-height: 3.5rem;
+}
+
+.header {
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 1.7rem;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul li {
+    font-size: 1.4rem;
+}
+
+.app-icons {
+    display: flex;
+    justify-content: left;
+    margin-top: 10px;
+}
+
+.app-icons img {
+    height: 30px;
+    width: 30px;
+}
+
+
+.social-media-icons {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.social_circle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.icon {
+    font-size: 1.2rem;
+}
+
+
+.app-icons {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.app_circle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+    background-color:aliceblue;
+}
+
+
+
+.app_icon {
+    font-size: 1.2rem;
+    color: white;
+}
+
+.app_circle.colorful .app_icon {
+    color: #f9573f;
+}
+
+
+@media only screen and (max-width: 500px) {
+    .social_circle {
+        width: 19px;
+        height: 22px;
+        padding: 2px;
+    }
+    .section5-container {
+        justify-content: center;
+    }
+}

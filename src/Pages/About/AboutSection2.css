@@ -1,0 +1,77 @@
+.about-section-2 {
+  display: flex;
+  justify-content: space-around;
+  gap: 5vw;
+  background-color: var(--primary-color);
+  padding: 5rem 1rem;
+  
+}
+
+.our-story {
+  text-align: left;
+  width: 35vw;
+}
+
+.our-story h1 {
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+
+.bold-text {
+  font-weight: bold;
+  font-size: 1.5rem;
+  
+}
+
+.gap-text {
+  margin-left: 0;
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+}
+
+.about-section-2 .right-side {
+  text-align: left;
+  width: 36vw;
+}
+
+.about-section-2 .right-side .item {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 2rem;
+}
+
+.number {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.about-section-2 .right-side .item .item-content {
+  margin-left: 1rem;
+}
+
+.about-section-2 .right-side .item h3 {
+  font-weight: bold;
+  font-size: 1.7rem;
+}
+
+.about-section-2 .right-side .item p {
+  font-size: 1.3rem;
+}
+
+@media only screen and (max-width: 700px) {
+  .about-section-2 {
+    flex-direction: column;
+    gap: 5vh;
+    align-items: center;
+  }
+
+  .our-story {
+    width: 80vw;
+    text-align: center;
+  }
+
+  .about-section-2 .right-side {
+    width: 80vw;
+  }
+}

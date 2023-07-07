@@ -1,0 +1,54 @@
+.about-section-4 {
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    gap: 3vw;
+    padding: 4rem 1rem;
+}
+
+.about-section-4 .left-side {
+    text-align: left;
+    width: 40vw;
+}
+
+.about-section-4 .left-side p {
+    font-size: 1.3rem;
+}
+
+.about-section-4 .left-side h2 {
+    font-weight: bold;
+    font-size: 3.5rem;
+}
+
+.about-section-4 .right-side {
+    width: 50vw;
+}
+
+.about-section-4 .box {
+    display: flex;
+    justify-content: center;
+    border-radius: 3rem;
+}
+
+.about-section-4 .left-img {
+    width: 33rem;
+}
+
+@media only screen and (max-width: 650px) {
+    .about-section-4 {
+        flex-direction: column-reverse;
+      
+        align-items: center;
+    }
+
+    .about-section-4 .left-side {
+        width: 80vw;
+        text-align: center;
+    }
+
+    .about-section-4 .right-side {
+        width: 80vw;
+    }
+}

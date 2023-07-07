@@ -1,0 +1,146 @@
+{
+    "products": [
+        {
+            "value": "product1",
+            "label": "Product 1"
+        },
+        {
+            "value": "product2",
+            "label": "Product 2"
+        }
+    ],
+    "brands": [
+        {
+            "value": "brand1",
+            "label": "Brand 1"
+        },
+        {
+            "value": "brand2",
+            "label": "Brand 2"
+        }
+    ],
+    "models": [
+        {
+            "value": "model1",
+            "label": "Model 1"
+        },
+        {
+            "value": "model2",
+            "label": "Model 2"
+        }
+    ],
+    "problems": [
+        {
+            "value": "problem1",
+            "label": "Problem 1"
+        },
+        {
+            "value": "problem2",
+            "label": "Problem 2"
+        }
+    ],
+    "features": [
+        "100% Genuine Parts",
+        "6 months Warranty",
+        "24x7 Support"
+    ],
+    "why_people_trust_us": [
+        {
+            "content": "Quality",
+            "subcontent": "We Provide"
+        },
+        {
+            "content": "Experience",
+            "subcontent": "Our team has years of experience in the industry."
+        },
+        {
+            "content": "Customer Satisfaction",
+            "subcontent": "We prioritize customer satisfaction above all else."
+        },
+        {
+            "content": "Reliability",
+            "subcontent": "You can rely on us to deliver on our promises."
+        },
+        {
+            "content": "Trustworthiness",
+            "subcontent": "We have a proven track record of being trustworthy."
+        }
+    ],
+    "why_repairing_company": [
+        {
+            "content": "100% genuine parts",
+            "subcontent": "Learn More",
+            "icon": "VerifiedUserIcon"
+        },
+        {
+            "content": "6 Months Warranty",
+            "subcontent": "Learn More",
+            "icon": "CheckCircleIcon"
+        },
+        {
+            "content": "Unbeatable price",
+            "subcontent": "Learn More",
+            "icon": "TagIcon"
+        },
+        {
+            "content": "Scheduled pickups and drops",
+            "subcontent": "Learn More",
+            "icon": "EventIcon"
+        },
+        {
+            "content": "24x7 Support",
+            "subcontent": "Learn More",
+            "icon": "HeadsetIcon"
+        }
+    ],
+    "repair_gadget_in3steps": [
+        {
+            "content": "Check Price",
+            "subcontent": "Select your product, brand, model, and problem, and our price calculator will be able to tell you the price of the repair",
+            "icon": "TagIcon"
+        },
+        {
+            "content": "Schedule Pickup",
+            "subcontent": "Book a free pickup from your home or work at a time slot as per your convenience.",
+            "icon": "ShippingTruckIcon"
+        },
+        {
+            "content": "Get Your Device Repaired",
+            "subcontent": "Our executive will pick up the device, and you can make an instant and secure payment through our platform.",
+            "icon": "BuildInHandIcon"
+        }
+    ],    
+    "our_story": [
+        {
+            "content": "6 Years of Intense Research",
+            "subcontent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
+            "number":"01."
+
+        },
+        {
+            "content": "Audience Segmentation",
+            "subcontent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
+            "number":"02."
+        },
+        {
+            "content": "Contact Monitoring",
+            "subcontent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.",
+            "number":"03."
+        }
+    ],    
+    "milestone": [
+        {
+            "content": "94%",
+            "subcontent": "Accuracy"
+
+        },
+        {
+            "content": "70M+",
+            "subcontent": "Downloads"
+        },
+        {
+            "content": "10k+",
+            "subcontent": "Followers"
+        }
+    ]
+}

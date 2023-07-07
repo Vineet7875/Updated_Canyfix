@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "model": "Apple iPhone 13",
+      "desc": "(128GB, Starlight White)",
+      "img": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1664009491/Croma%20Assets/Communication/Mobiles/Images/243460_0_n90peu.png/mxw_2048,f_auto",
+      "price": 62990
+    },
+    {
+      "id": 2,
+      "model": "vivo V25 5G",
+      "desc": "(8GB RAM, 128GB, Surfing Blue)",
+      "img": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1669052705/Croma%20Assets/Communication/Mobiles/Images/261774_0_lw0c9z.png/mxw_2048,f_auto",
+      "price": 27999
+    },
+    {
+      "id": 3,
+      "model": "Apple iPhone 14",
+      "desc": "(128GB, Midnight)",
+      "img": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1662703541/Croma%20Assets/Communication/Mobiles/Images/261930_q0hq3w.png/mxw_2048,f_auto",
+      "price": 70990
+    },
+    {
+      "id": 4,
+      "model": "Redmi Note 12 Pro 5G",
+      "desc": "(6GB RAM, 128GB, Frosted Blue)",
+      "img": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1673455412/Croma%20Assets/Communication/Mobiles/Images/267247_dqcgwa.png/mxw_2048,f_auto",
+      "price": 24999
+    },
+    {
+      "id": 5,
+      "model": "Apple iPhone 13",
+      "desc": "(128GB, Midnight)",
+      "img": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1664009258/Croma%20Assets/Communication/Mobiles/Images/243459_0_ljp1lm.png/mxw_2048,f_auto",
+      "price": 62990
+    },
+    {
+      "id": 6,
+      "model": "Redmi Note 12 5G",
+      "desc": "(6GB RAM, 128GB, Frosted Green)",
+      "img": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1673455293/Croma%20Assets/Communication/Mobiles/Images/267291_i1mtpn.png/mxw_2048,f_auto",
+      "price": 19999
+    },
+    {
+      "id": 7,
+      "model": "Apple iPhone 13",
+      "desc": "(128GB, Pink)",
+      "img": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1664009482/Croma%20Assets/Communication/Mobiles/Images/243461_0_tzq0y4.png/mxw_2048,f_auto",
+      "price": 62990
+    },
+    {
+      "id": 8,
+      "model": "Apple iPhone 14 Pro",
+      "desc": "(128GB, Deep Purple)",
+      "img": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1662703105/Croma%20Assets/Communication/Mobiles/Images/261963_oqrd6j.png/mxw_2048,f_auto",
+      "price": 119990
+    }
+  ]
+  
